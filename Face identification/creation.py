@@ -24,6 +24,7 @@ while count<51:
     cv2.imshow('opencv',im)
     key=cv2.waitKey(10)
     if key==27:
+       
         webcam.release()
         cv2.destroyAllWindows()
     
