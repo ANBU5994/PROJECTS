@@ -1,5 +1,6 @@
 import cv2
 import os
+
 haar_file="C:\\Users\\Anbazhagan R\\Downloads\\haarcascade_frontalface_default.xml"
 datasets="C:\\Users\\Anbazhagan R\\Desktop\\DATA SET"
 sub_data='trump'
