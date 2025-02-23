@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 26 11:13:40 2020
 
-@author: Manish Singh
-"""
 import cv2
 import pandas as pd
 import numpy as np
